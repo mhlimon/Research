@@ -1,0 +1,69 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome\n\n\nWelcome to My Research summary website. Here the important summary of research paper will be compiled. There will be three catagories. \nElectronic\n, \nThermal\n and \nPhotonics\n. Another section will be dedicated for Language learning.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome",
+            "text": "Welcome to My Research summary website. Here the important summary of research paper will be compiled. There will be three catagories.  Electronic ,  Thermal  and  Photonics . Another section will be dedicated for Language learning.",
+            "title": "Welcome"
+        },
+        {
+            "location": "/about/",
+            "text": "'https://jaspervdj.be/lorem-markdownum/markdown.txt'",
+            "title": "About"
+        },
+        {
+            "location": "/electronic/",
+            "text": "ELectronic Property and Devices",
+            "title": "Electronic"
+        },
+        {
+            "location": "/electronic/#electronic-property-and-devices",
+            "text": "",
+            "title": "ELectronic Property and Devices"
+        },
+        {
+            "location": "/help/",
+            "text": "Some helpful Pages\n\n\n\n\nBasic Syntax of MarkDown",
+            "title": "Help"
+        },
+        {
+            "location": "/help/#some-helpful-pages",
+            "text": "Basic Syntax of MarkDown",
+            "title": "Some helpful Pages"
+        },
+        {
+            "location": "/photonics/",
+            "text": "Optical device and photonics",
+            "title": "Photonics"
+        },
+        {
+            "location": "/photonics/#optical-device-and-photonics",
+            "text": "",
+            "title": "Optical device and photonics"
+        },
+        {
+            "location": "/thermal/",
+            "text": "Thermal Properties\n\n\nCharacterization of thermal and mechanical properties of stanene nanoribbons: a molecular dynamics study\n\n\n\n\nAuthor\n: Asir, Ratul, Samia\n\n\nMaterial\n:\n\n\nStanene - buckled honeycomb structure of Tin \n\n\n\n\n\n\nSize\n: \n\n\nNanoribbon; \u00a010 nm \u00d7 3 nm zigzag and armchair\n\n\nheight (0.88 \u00c5)\u00a0\n\n\n\n\n\n\nProcess\n: \n\n\nEMD\n\n\nDFT\n\n\n\n\n\n\nTools/Softwares\n: \n\n\nLAMMPS\n\n\nQuantum Espresso\n\n\n\n\n\n\nVariable Characteristics\n:\n\n\nTemperature, Width, \n\n\nDefect - point vacancy, edge vacancy and bi-vacancy\n\n\nStress - strain\n\n\n\n\n\n\n\n\nPotentials\n: \n\n\nMEAM\n\n\n\n\n\n\nResult\n: \n\n\nTC --> 0.95 \u00b1 0.024 W m\u22121\u00a0K\u22121\u00a0and 0.89 \u00b1 0.026 W m\u22121\u00a0K\u22121\n\n\nelectron effective mass for pristine and defected stanene are \u223c0.49 \u00d7 106\u00a0ms\u22121\u00a0and \u223c0.2 \u00d7 106\u00a0ms\u22121\u00a0\n\n\n\n\n\n\nKey Foundings\n:\n\n\nTC decrease with Temperature increase\n\n\nTC increase with Width increase \n\n\nApplicability in Thermoelectrics: small electron effective mass and high fermi velocity\n\n\n\n\n\n\n\n\n2\n\n\n\n\nThermal transport characterization of stanene/silicene heterobilayer and stanene bilayer nanostructures\n\n\n\n\n\n\nAuthor\n: Maliha Noshin,\u00a0Asir Intisar Khan\u00a0and\u00a0Samia Subrina\n\n\n\n\n\n\nMaterial\n: \n\n\n\n\nStanene/Silicene- heterobilayer\n\n\nStanene bilayer\n\n\n\n\n\n\nSize\n:\u00a0 \n\n\nNanoribbon; \u00a010 nm \u00d7 3 nm\n\n\nheight (0.88 \u00c5)\u00a0\n\n\n\n\n\n\nProcess\n: \n\n\nEMD\n\n\nDFT\n\n\n\n\n\n\nTools/Softwares\n: \n\n\nLAMMPS\n\n\nQuantum Espresso\n\n\n\n\n\n\n\n\nVariable Characteristics\n:\n\n\n\n\nTemperature, Width, \n\n\nDefect - point vacancy, edge vacancy and bi-vacancy\n\n\nStress - strain\n\n\n\n\n\n\n\n\nPotentials\n: \n\n\n\n\nMEAM\n\n\n\n\n\n\nResult\n: \n\n\nTC --> 3.63\u00a0\u00b1\u00a00.27 W m\u22121\u00a0K\u22121\u00a0and 1.31\u00a0\u00b1\u00a00.34 W m\u22121\u00a0K\u22121\n\n\nelectron effective mass for pristine and defected stanene are \u223c0.49 \u00d7 106\u00a0ms\u22121\u00a0and \u223c0.2 \u00d7 106\u00a0ms\u22121\u00a0\n\n\n\n\n\n\nKey Foundings\n:\n\n\nTC decrease with Temperature increase\n\n\nTC increase with Width increase \n\n\nApplicability in Thermoelectrics: small electron effective mass and high fermi velocity",
+            "title": "Thermal"
+        },
+        {
+            "location": "/thermal/#thermal-properties",
+            "text": "",
+            "title": "Thermal Properties"
+        },
+        {
+            "location": "/thermal/#characterization-of-thermal-and-mechanical-properties-of-stanene-nanoribbons-a-molecular-dynamics-study",
+            "text": "Author : Asir, Ratul, Samia  Material :  Stanene - buckled honeycomb structure of Tin     Size :   Nanoribbon; \u00a010 nm \u00d7 3 nm zigzag and armchair  height (0.88 \u00c5)\u00a0    Process :   EMD  DFT    Tools/Softwares :   LAMMPS  Quantum Espresso    Variable Characteristics :  Temperature, Width,   Defect - point vacancy, edge vacancy and bi-vacancy  Stress - strain     Potentials :   MEAM    Result :   TC --> 0.95 \u00b1 0.024 W m\u22121\u00a0K\u22121\u00a0and 0.89 \u00b1 0.026 W m\u22121\u00a0K\u22121  electron effective mass for pristine and defected stanene are \u223c0.49 \u00d7 106\u00a0ms\u22121\u00a0and \u223c0.2 \u00d7 106\u00a0ms\u22121\u00a0    Key Foundings :  TC decrease with Temperature increase  TC increase with Width increase   Applicability in Thermoelectrics: small electron effective mass and high fermi velocity     2",
+            "title": "Characterization of thermal and mechanical properties of stanene nanoribbons: a molecular dynamics study"
+        },
+        {
+            "location": "/thermal/#thermal-transport-characterization-of-stanenesilicene-heterobilayer-and-stanene-bilayer-nanostructures",
+            "text": "Author : Maliha Noshin,\u00a0Asir Intisar Khan\u00a0and\u00a0Samia Subrina    Material :    Stanene/Silicene- heterobilayer  Stanene bilayer    Size :\u00a0   Nanoribbon; \u00a010 nm \u00d7 3 nm  height (0.88 \u00c5)\u00a0    Process :   EMD  DFT    Tools/Softwares :   LAMMPS  Quantum Espresso     Variable Characteristics :   Temperature, Width,   Defect - point vacancy, edge vacancy and bi-vacancy  Stress - strain     Potentials :    MEAM    Result :   TC --> 3.63\u00a0\u00b1\u00a00.27 W m\u22121\u00a0K\u22121\u00a0and 1.31\u00a0\u00b1\u00a00.34 W m\u22121\u00a0K\u22121  electron effective mass for pristine and defected stanene are \u223c0.49 \u00d7 106\u00a0ms\u22121\u00a0and \u223c0.2 \u00d7 106\u00a0ms\u22121\u00a0    Key Foundings :  TC decrease with Temperature increase  TC increase with Width increase   Applicability in Thermoelectrics: small electron effective mass and high fermi velocity",
+            "title": "Thermal transport characterization of stanene/silicene heterobilayer and stanene bilayer nanostructures"
+        }
+    ]
+}
